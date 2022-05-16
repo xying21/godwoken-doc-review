@@ -1,0 +1,34 @@
+{
+  "sidebar2": [
+    {
+      "Introduction": [
+        "overview",
+        "decentralizationRoadmap"
+      ]
+    },
+
+    {
+      "Ethereum Compatibility": [
+        "comparisonEVM",
+        "web3Compatible",
+		"integration"
+      ]
+    },
+    {
+      "Deployment": [
+        "godwokenkicker",
+		"deployLocalNetwork",
+        "deployContractHardhat"
+      ]
+    },
+
+    {
+      "Light Godwoken": [
+        "lightGodwoken",
+        "liteGodwokenWithdraw"
+      ]
+    },
+    "releaseNote",
+    "faq"
+  ]
+}
