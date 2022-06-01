@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkckb_sdk=self.webpackChunkckb_sdk||[]).push([[8608],{3741:function(o){o.exports=JSON.parse('{"label":"hola","permalink":"/godwoken-doc/blog/tags/hola","allTagsPath":"/godwoken-doc/blog/tags","count":1}')}}]);

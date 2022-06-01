@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkckb_sdk=self.webpackChunkckb_sdk||[]).push([[1497],{3940:function(e){e.exports=JSON.parse('{"label":"facebook","permalink":"/godwoken-doc-review/blog/tags/facebook","allTagsPath":"/godwoken-doc-review/blog/tags","count":1}')}}]);
